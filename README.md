@@ -1,9 +1,21 @@
-# Regressão linear - Utilizando a ferramenta de análise de dados R
-Utilizando a IDE RStudio
+## Regressão linear
 
-### O que você vai ver nesse material
-- Como fazer uma regressão simples e multipla
-- Interpretação básica de modelos
-- Tecnica de machine learning
-- Gráfico de correlação 
+### Conteúdo:
+  * [Por que eu gastaria tempo aprendendo isso?](#Por-que-eu-gastaria-tempo-aprendendo-isso?)
+  * [Conteúdo do material](#Neste-material-você-vai-ver)
+  * [Foco do material](#Foco)        
+  * [Exemplo de práticos ou uso comercial](#Exemplos-práticos-ou-de-uso-comercial)
 
+### Por que eu gastaria tempo aprendendo isso?
+- A
+- B
+- C
+
+### Exemplo: 
+- A
+- B
+- C
+### Exemplos práticos ou de uso comercial
+- A
+- B
+- C
